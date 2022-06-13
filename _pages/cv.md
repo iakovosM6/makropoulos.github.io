@@ -31,12 +31,12 @@ Research Interests
 
 Publications
 ======
-**Peer-Reviewed Articles**
+* **Peer-Reviewed Articles**
 1. Collignon, S., Rüdig, W., Lamprinakou C., Makropoulos, I., & Sajuria, J. (2022). Interwined Fates? Members Switching between Niche and Mainstream Parties. *Party Politics* (accepted)
 2. Karyotis, G., Connolly, J., Collignon, S., Judge, A., Makropoulos, I., Rüdig, W., & Skleparis, D. (2021). What Drives Support for Social Distancing? Pandemic Politics, Securitisation and Crisis Management in Britain. *European Political Science Review*, 13(4), 467-487
 3. Collignon, S., Makropoulos, I., & Rüdig, W. (2021). Consensus Secured? Elite and Public Attitudes to ’Lockdown’ Measures to Combat Covid-19 in England. *Journal of Elections, Public Opinion and Parties*, 31(sup1), 109-121.
 
-**Edited Volumes & Book Chapters**
+* **Edited Volumes & Book Chapters**
 1. Makropoulos, I., Collignon, S., Giebler, H., Rüdig, W., Sajuria, J., & Wessels, B. (2020). Determinants of Personalised Campaigning: A Comparative Analysis. In L. De Winter, R. Karlsen & H. Schmitt (Eds.), *Parliamentary Candidates Between Voters and Parties. A Comparative Perspective* (pp. 97-119). London: Routledge.
 2. Makropoulos, I. (2019). SYRIZA’s Victorious Defeat. In P. Manoli (Ed.), *First Thoughts on the 7 July 2019 Election in Greece*. Greek Politics Specialist Group Pamphlet No 6.
     
