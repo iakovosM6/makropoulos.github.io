@@ -11,9 +11,9 @@ redirect_from:
 
 Appointments
 ======
-* Lecturer in Political Behaviour and Quantitative Methods, University of Essex, 2022 August - present
-* Lecturer in Political Behaviour, Department of Government, University of Essex, 2022 January - 2022 July
-* Research Assistant on the Representative Audit of Britain 2019 project funded by the ESRC, 2020 February - 2021 September
+* Lecturer in Political Behaviour and Quantitative Methods, University of Essex, 2022 August--present
+* Lecturer in Political Behaviour, Department of Government, University of Essex, 2022 January--2022 July
+* Research Assistant on the Representative Audit of Britain 2019 project funded by the ESRC, 2020 February--2021 September
   
 Education
 ======
