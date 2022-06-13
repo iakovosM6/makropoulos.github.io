@@ -29,7 +29,9 @@ Research Interests
 * Comparative Politics
 * Political Methodology
 
-Publications Peer-Reviewed Articles
+Publications
+======
+Peer-Reviewed Articles
 ======
 1. Collignon, S., Rüdig, W., Lamprinakou C., Makropoulos, I., & Sajuria, J. (2022). Interwined Fates? Members Switching between Niche and Mainstream Parties. *Party Politics* (accepted)
 2. Karyotis, G., Connolly, J., Collignon, S., Judge, A., Makropoulos, I., Rüdig, W., & Skleparis, D. (2021). What Drives Support for Social Distancing? Pandemic Politics, Securitisation and Crisis Management in Britain. *European Political Science Review*, 13(4), 467-487
