@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Iakovos Makropoulos"
 title_separator          : "-"
 name                     : &name "Iakovos Makropoulos"
-description              : &description "personal description"
+description              : &description "Lecturer"
 url                      : "https://iakovosm6.github.io/makropoulos.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "makropoulos.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Iakovos Makropoulos"
   avatar           : "profile.png"
-  bio              : "Lecturer in Political Behaviour and Quantitative Methods"
-  location         : "University of Essex"
+  bio              : "Lecturer in Political Behaviour and Quantitative Methods at the University of Essex"
+  location         : "Colchester, Essex"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9T2XLJcAAAAJ&hl=en&oi=ao"
