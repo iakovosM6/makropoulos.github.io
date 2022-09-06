@@ -11,15 +11,19 @@ redirect_from:
 
 Appointments
 ======
-* Lecturer in Political Behaviour and Quantitative Methods, University of Essex, 2022 August--present
-* Lecturer in Political Behaviour, Department of Government, University of Essex, 2022 January--2022 July
-* Research Assistant on the Representative Audit of Britain 2019 project funded by the ESRC, 2020 February--2021 September
+* Visiting Lecturer in Political Behaviour and Quantitative Methods, University of Essex, Aug 2022--present
+* Visiting Lecturer in Political Behaviour, Department of Government, University of Essex, Jan 2022--Jul 2022
+* Research Assistant on the Representative Audit of Britain 2019 project funded by the ESRC, Feb 2020--Sep 2021
   
 Education
 ======
 * Ph.D., Politics, University of Strathclyde, 2022 (expected)
+  * Ph.D. Thesis: The Effects of Career Experiences on Party and Voter Congruence
+  * Supervisors: Dr. Wolfgang Rüdig & Dr. Zachary Greene 
 * Associate Fellow Status, The Higher Education Academy, 2020
-* M.Sc., Political Analysis, Aristotle University of Thessaloniki: Distinction, 2017
+* M.Sc., Political Analysis, Aristotle University of Thessaloniki: with Distinction, 2017
+  * M.Sc. Thesis: Analysis of the use of Twitter by Greek political parties
+  * Supervisor: Prof. Ioannis Andreadis
 * B.Sc., Political Sciences, Aristotle University of Thessaloniki, 2014
 
   
@@ -39,7 +43,22 @@ Publications
 * **Edited Volumes & Book Chapters**
 1. Makropoulos, I., Collignon, S., Giebler, H., Rüdig, W., Sajuria, J., & Wessels, B. (2020). Determinants of Personalised Campaigning: A Comparative Analysis. In L. De Winter, R. Karlsen & H. Schmitt (Eds.), *Parliamentary Candidates Between Voters and Parties. A Comparative Perspective* (pp. 97-119). London: Routledge.
 2. Makropoulos, I. (2019). SYRIZA’s Victorious Defeat. In P. Manoli (Ed.), *First Thoughts on the 7 July 2019 Election in Greece*. Greek Politics Specialist Group Pamphlet No 6.
+
+* **Under Review**
+1. Rüdig, W., Rihoux, B., Buelens, J., Sajuria, J., & Makropoulos, I. Analyzing Green Party Goals: Instrumentalism vs Post-Instrumentalism. Currently under R&R in Comparative Political Studies
+
+Invited Talks
+======
+* 1. "It is where you start that counts." How previous career experiences affect party rebellion, University of Strathclyde, 2022
+* 2. A Protest like Any Other? The Macedonian Movement and Opposition to the Prespa Agreement in Greece, Aristotle University of Thessaloniki, 2019
     
+Grants, Honours & Awards
+======
+* Co-Investigator on Greek Youth European Attitudes Project funded by DiaNEOsis
+Research and Policy Institute - £25,000
+* Research Excellence Award for the degree of Ph.D. in Politics, University of Strathclyde - £60,000
+* Graduate School Conference Fund, University of Strathclyde - £1000
+
 Teaching
 ======
 * Lecturer and Module Supervisor 
@@ -54,17 +73,6 @@ Teaching
   * L2108: Politics 1b: Decision Making and Outcomes, University of Strathclyde
   * L2107: Politics 1a: Concepts and Processes, University of Strathclyde
   
-Grants, Honours & Awards
-======
-* Research Excellence Award for the degree of Ph.D. in Politics (fully funded scholarship)
-* Strathclyde Graduate School Conference Fund - 1000£
-  
-Service and leadership
-======
-* Mentor to 1st year Ph.D. students, University of Strathclyde, 2021
-* Conference Assistant, Party Congress Research Group, University of Strathclyde, 2019
-* Conference Assistant, EPOP, University of Strathclyde, 2019
-
 IT & Language Skills
 ======
 * Data analyses software
