@@ -11,8 +11,8 @@ redirect_from:
 
 Appointments
 ======
-* Visiting Lecturer in Political Behaviour and Quantitative Methods, University of Essex, Aug 2022--present
-* Visiting Lecturer in Political Behaviour, Department of Government, University of Essex, Jan 2022--Jul 2022
+* Lecturer in Political Behaviour and Quantitative Methods, University of Essex, Aug 2022--present
+* Lecturer in Political Behaviour, Department of Government, University of Essex, Jan 2022--Jul 2022
 * Research Assistant on the Representative Audit of Britain 2019 project funded by the ESRC and the University of Strathclyde, PIs: Prof. Rosie Campbell and Dr. Wolfgang Rüdig, Feb 2020--Sep 2021
   
 Education
