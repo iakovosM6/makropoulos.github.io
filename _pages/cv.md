@@ -60,13 +60,11 @@ Research and Policy Institute - £25,000
 * Research Excellence Award for the degree of Ph.D. in Politics, University of Strathclyde - £60,000
 * Graduate School Conference Fund, University of Strathclyde - £1000
 
-Teaching Graduate level
+Teaching 
 ======
 * Lecturer 
-  * GV958: Theory and Explanation in Political Science, University of Essex
+  * GV958: Theory and Explanation in Political Science, University of Essex (Graduate level)
 
-Teaching Undergraduate level
-======
 * Lecturer and Module Supervisor 
   * GV202: Political Behaviour, University of Essex 
   * GV205: Measuring Public Opinion, University of Essex
