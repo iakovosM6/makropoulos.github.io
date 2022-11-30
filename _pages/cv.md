@@ -17,7 +17,7 @@ Appointments
   
 Education
 ======
-* Ph.D., Politics, University of Strathclyde, 2022 (expected)
+* Ph.D., Politics, University of Strathclyde, 2023 (expected)
   * Ph.D. Thesis: The Effects of Career Experiences on Party and Voter Congruence
   * Supervisors: Dr. Wolfgang Rüdig & Dr. Zachary Greene 
 * Associate Fellow Status, The Higher Education Academy, 2020
@@ -55,19 +55,26 @@ Invited Talks
     
 Grants, Honours & Awards
 ======
-* Co-Investigator on Greek Youth European Attitudes Project funded by DiaNEOsis
+* Co-Investigator on the Greek Youth European Attitudes Project funded by DiaNEOsis
 Research and Policy Institute - £25,000
 * Research Excellence Award for the degree of Ph.D. in Politics, University of Strathclyde - £60,000
 * Graduate School Conference Fund, University of Strathclyde - £1000
 
-Teaching
+Teaching Graduate level
+======
+* Lecturer 
+  * GV958: Theory and Explanation in Political Science, University of Essex
+
+Teaching Undergraduate level
 ======
 * Lecturer and Module Supervisor 
-  * GV205-5-SP: Measuring Public Opinion, University of Essex
-  * GV203-5-SP: Parties and Elections, University of Essex 
-  * GV303-6-SP: Electoral Behaviour, University of Essex
+  * GV202: Political Behaviour, University of Essex 
+  * GV205: Measuring Public Opinion, University of Essex
+  * GV203: Parties and Elections, University of Essex 
+  * GV303: Electoral Behaviour, University of Essex
 * Guest Lecturer
   * L2308: European Politics, University of Strathclyde
+  * GV711: Career Portfolio, University of Essex
 * Graduate Teaching Assistant
   * L2201: International Relations and Global Politics, University of Strathclyde
   * L2235: Political Philosophy, University of Strathclyde
