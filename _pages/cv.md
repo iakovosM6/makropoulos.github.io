@@ -62,17 +62,16 @@ Research and Policy Institute - £25,000
 
 Teaching 
 ======
-* Lecturer 
-  * GV958: Theory and Explanation in Political Science, University of Essex (Graduate level)
-
+  
 * Lecturer and Module Supervisor 
   * GV202: Political Behaviour, University of Essex 
   * GV205: Measuring Public Opinion, University of Essex
   * GV203: Parties and Elections, University of Essex 
   * GV303: Electoral Behaviour, University of Essex
-* Guest Lecturer
-  * L2308: European Politics, University of Strathclyde
+* Lecturer 
+  * GV958: Theory and Explanation in Political Science, University of Essex (Graduate level)
   * GV711: Career Portfolio, University of Essex
+  * L2308: European Politics, University of Strathclyde
 * Graduate Teaching Assistant
   * L2201: International Relations and Global Politics, University of Strathclyde
   * L2235: Political Philosophy, University of Strathclyde
