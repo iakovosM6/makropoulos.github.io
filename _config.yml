@@ -11,7 +11,7 @@ title                    : "Iakovos Makropoulos"
 title_separator          : "-"
 name                     : &name "Iakovos Makropoulos"
 description              : &description "Lecturer"
-url                      : "https://makropoulos.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://iakovosm6.github.io/makropoulos.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "makropoulos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Iakovos Makropoulos"
   avatar           : "profile.png"
-  bio              : "Lecturer in Political Behaviour and Quantitative Methods at the University of Essex"
-  location         : "Colchester, Essex"
+  bio              : "Ph.D. Candidate at the University of Strathclyde"
+  location         : "Glasgow, Scotland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=9T2XLJcAAAAJ&hl=en&oi=ao"
-  email            : "i.makropoulos@essex.ac.uk"
+  email            : "iakovos.makropoulos@strath.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
