@@ -11,13 +11,13 @@ redirect_from:
 
 Appointments
 ======
-* Lecturer in Political Behaviour and Quantitative Methods, University of Essex, Aug 2022--present
-* Lecturer in Political Behaviour, Department of Government, University of Essex, Jan 2022--Jul 2022
-* Research Assistant on the Representative Audit of Britain 2019 project funded by the ESRC and the University of Strathclyde, PIs: Prof. Rosie Campbell and Dr. Wolfgang Rüdig, Feb 2020--Sep 2021
+* Lecturer in Political Behaviour and Quantitative Methods, Department of Government, University of Essex, Sep 2022--Jul 2023
+* Lecturer in Political Behaviour, Department of Government, University of Essex, Jan 2022--Aug 2022
+* Research Assistant (pre-doc) on the Representative Audit of Britain 2019 project funded by the ESRC and the University of Strathclyde, PIs: Prof. Rosie Campbell and Dr. Wolfgang Rüdig, Jan 2020--Sep 2021
   
 Education
 ======
-* Ph.D., Politics, University of Strathclyde, 2023 (expected)
+* Ph.D., Politics, University of Strathclyde, 2024 
   * Ph.D. Thesis: The Effects of Career Experiences on Party and Voter Congruence
   * Supervisors: Dr. Wolfgang Rüdig & Dr. Zachary Greene 
 * Associate Fellow Status, The Higher Education Academy, 2020
@@ -36,9 +36,9 @@ Research Interests
 Publications
 ======
 * **Peer-Reviewed Articles**
-1. Collignon, S., Rüdig, W., Lamprinakou C., Makropoulos, I., & Sajuria, J. (2022). Interwined Fates? Members Switching between Niche and Mainstream Parties. *Party Politics* (accepted)
-2. Karyotis, G., Connolly, J., Collignon, S., Judge, A., Makropoulos, I., Rüdig, W., & Skleparis, D. (2021). What Drives Support for Social Distancing? Pandemic Politics, Securitisation and Crisis Management in Britain. *European Political Science Review*, 13(4), 467-487
-3. Collignon, S., Makropoulos, I., & Rüdig, W. (2021). Consensus Secured? Elite and Public Attitudes to ’Lockdown’ Measures to Combat Covid-19 in England. *Journal of Elections, Public Opinion and Parties*, 31(sup1), 109-121.
+2023 Interwined Fates? Members Switching between Niche and Mainstream Parties (with Sofia Collignon, Wolfgang Rüdig, Chrysa Lamprinakou and Javier Sajuria), Party Politics, 29(5), 840-852.
+2021 What Drives Support for Social Distancing? Pandemic Politics, Securitisation and Crisis Management in Britain (with Georgios Karyotis, John Connolly, Sofia Collignon, Andrew Judge, Wolfgang Rüdig and Dimitris Skleparis), European Political Science Review, 13(4), 467-487.
+2021 Consensus Secured? Elite and Public Attitudes to ’Lockdown’ Measures to Combat Covid-19 in England (with Sofia Collignon and Wolfgang Rüdig), Journal of Elections, Public Opinion and Parties, 31(sup1), 109-121.
 
 * **Edited Volumes & Book Chapters**
 1. Karyotis, G., Lamprinakou, C., Makropoulos, I., Tsagkroni, V., Rori, L., Skleparis, D., Tsarouchas, D. (2022). Νεολαία και Ευρωπαϊκή Ένωση: Στάσεις, προσδιοριστικοί παράγοντες και διαγενεακές δυναμικές [Youth and the European Union: Attitudes, determinants and intergenerational dynamics]. *diaNEOSis*, 4.2022.
