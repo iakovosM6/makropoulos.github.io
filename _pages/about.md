@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Iakovos Makropoulos has a broad range of research interests on the fields of Political Behaviour, Comparative Politics and Political Methodology. 
+Iakovos Makropoulos has a broad range of research interests on the fields of Political Behaviour, Political Psychology, Public Opinion, and Survey Methodology. 
 
 Iakovos is a member of the ESRC-funded project, [Representative Audit of Britain](https://gtr.ukri.org/projects?ref=ES%2FL016508%2F1#/tabOverview), that involves surveys of candidates who stood in the UK General Elections, and a member of the research team that is responsible of collecting data on candidates in the UK on behalf of the [Comparative Candidate Survey Project](https://www.comparativecandidates.org). 
 
